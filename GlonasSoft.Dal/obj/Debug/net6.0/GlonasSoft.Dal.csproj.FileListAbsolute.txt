@@ -1,0 +1,12 @@
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\bin\Debug\net6.0\GlonasSoft.Dal.deps.json
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\bin\Debug\net6.0\GlonasSoft.Dal.dll
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\bin\Debug\net6.0\GlonasSoft.Dal.pdb
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.csproj.AssemblyReference.cache
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.AssemblyInfoInputs.cache
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.AssemblyInfo.cs
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.csproj.CoreCompileInputs.cache
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.dll
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\refint\GlonasSoft.Dal.dll
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\GlonasSoft.Dal.pdb
+D:\GlonasSoft\GlonasSoft\GlonasSoft.Dal\obj\Debug\net6.0\ref\GlonasSoft.Dal.dll

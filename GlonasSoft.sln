@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlonasSoft", "GlonasSoft\GlonasSoft.csproj", "{7D04F300-8C57-48B8-8BBD-E3E4EFBECA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlonasSoft.Bll", "GlonasSoft.Bll\GlonasSoft.Bll.csproj", "{BDE570EE-9832-4789-8F43-B4DF23AD57B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlonasSoft.Dal", "GlonasSoft.Dal\GlonasSoft.Dal.csproj", "{7799F094-D9D6-486A-979C-0C5710AE06CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D04F300-8C57-48B8-8BBD-E3E4EFBECA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D04F300-8C57-48B8-8BBD-E3E4EFBECA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D04F300-8C57-48B8-8BBD-E3E4EFBECA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D04F300-8C57-48B8-8BBD-E3E4EFBECA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE570EE-9832-4789-8F43-B4DF23AD57B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE570EE-9832-4789-8F43-B4DF23AD57B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE570EE-9832-4789-8F43-B4DF23AD57B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE570EE-9832-4789-8F43-B4DF23AD57B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7799F094-D9D6-486A-979C-0C5710AE06CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7799F094-D9D6-486A-979C-0C5710AE06CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7799F094-D9D6-486A-979C-0C5710AE06CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7799F094-D9D6-486A-979C-0C5710AE06CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
