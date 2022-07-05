@@ -8,14 +8,12 @@ namespace GlonasSoft.Bll.Services;
 public class ProcessorRequests : BackgroundService
 {
     private readonly ProcessorQueue _queue;
-    private readonly IServiceScopeFactory _scopeFactory;
     private readonly IDbContextFactory<GlonasContext> _dbContext;
 
-    public ProcessorRequests(ProcessorQueue queue, IServiceScopeFactory scopeFactory,
+    public ProcessorRequests(ProcessorQueue queue,
         IDbContextFactory<GlonasContext> dbContext)
     {
         _queue = queue;
-        _scopeFactory = scopeFactory;
         _dbContext = dbContext;
     }
 

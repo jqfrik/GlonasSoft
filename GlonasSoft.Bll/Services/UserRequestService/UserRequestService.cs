@@ -11,7 +11,6 @@ namespace GlonasSoft.Bll.Services.UserRequestService;
 
 public class UserRequestService : IUserRequestService
 {
-    private readonly IServiceProvider _serviceProvider;
     private readonly ProcessorQueue _queue;
     private GlonasContext _context { get; set; }
     private IConfiguration _configuration { get; }
@@ -22,9 +21,8 @@ public class UserRequestService : IUserRequestService
     private UserRequest _currentUserRequest { get; set; }
 
     public UserRequestService(IConfiguration configuration, IMemoryCache cache, IHostApplicationLifetime hostLifetime,
-        GlonasContext context, IServiceProvider serviceProvider, ProcessorQueue queue, IDbContextFactory<GlonasContext> contextFactory)
+        GlonasContext context, ProcessorQueue queue, IDbContextFactory<GlonasContext> contextFactory)
     {
-        _serviceProvider = serviceProvider;
         _queue = queue;
         _context = context;
         _configuration = configuration;

@@ -35,20 +35,6 @@ public static class ServiceCollectionExtensions
         };
     }
 
-    // public static UserRequestDtoResponse ConvertToDto(this UserRequest request)
-    // {
-    //     return new()
-    //     {
-    //         Percent = request.Percent.ToString("F"),
-    //         Query = request.Query,
-    //         Result = new()
-    //         {
-    //             User_Id = request.Result.User_Id,
-    //             Count_Sign_In = request.Result.Count_Sign_In
-    //         }
-    //     };
-    // }
-
     public static UserRequest Convert(this UserRequestDal request)
     {
         return new()
